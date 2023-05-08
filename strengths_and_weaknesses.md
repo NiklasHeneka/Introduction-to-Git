@@ -9,3 +9,5 @@ Kollaboration und Teamarbeit: Git unterstützt die gleichzeitige Entwicklung, in
 ## Weaknesses
 
 Lernkurve: Git hat eine steile Lernkurve, vor allem für Benutzer, die neu in Versionskontrollsystemen sind. Das Verständnis der Konzepte, Befehle und Arbeitsabläufe von Git erfordert einige Zeit und Mühe, was für Anfänger eine Herausforderung darstellen kann.
+
+Dateigröße und Speicherplatz: Git speichert eine vollständige Kopie des Repositorys lokal, einschließlich aller historischen Daten. Daher können die Speicheranforderungen im Laufe der Zeit steigen. Das gilt insbesonders bei Projekten mit umfangreichen Historien oder großen Binärdateien und PDFs, da Git hier jedesmal die gesamten Dokumente und nicht nur die Änderungen speichert.
