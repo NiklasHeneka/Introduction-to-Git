@@ -1,1 +1,1 @@
-# transfer-assignment
+# Introduction to Git course
