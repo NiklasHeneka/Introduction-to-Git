@@ -2,12 +2,12 @@
 
 ## Strengths
 
-Versionskontrolle: Git verfolgt die Änderungen, die im Laufe der Zeit an Dateien vorgenommen wurden, und ermöglicht es, problemlos zu früheren Versionen zurückzukehren, um den Verlauf des Projektes zu verstehen. Es bietet Funktionen wie das Verzweigen und Zusammenführen an, sodass effizient an mehreren Codezweigen gleichzeitig gearbeitet werden kann.
+Version control: Git keeps track of changes made to files over time and makes it easy to go back to previous versions to understand the progress of the project. It offers features such as branching and merging, allowing efficient work on multiple branches of code simultaneously.
 
-Kollaboration und Teamarbeit: Git unterstützt die gleichzeitige Entwicklung, indem es mehreren Entwicklern die Möglichkeit gibt, gleichzeitig an demselben Projekt zu arbeiten. Es bietet Mechanismen zum Zusammenführen von Änderungen aus verschiedenen Zweigen und zum Lösen von Konflikten, die bei der Zusammenarbeit entstehen können.
+Collaboration and teamwork: Git supports concurrent development by allowing multiple developers to work on the same project simultaneously. It provides mechanisms for merging changes from different branches and resolving conflicts that can arise during collaboration.
 
 ## Weaknesses
 
-Lernkurve: Git hat eine steile Lernkurve, vor allem für Benutzer, die neu in Versionskontrollsystemen sind. Das Verständnis der Konzepte, Befehle und Arbeitsabläufe von Git erfordert einige Zeit und Mühe, was für Anfänger eine Herausforderung darstellen kann.
+Learning Curve: Git has a steep learning curve, especially for users who are new to version control systems. Understanding Git's concepts, commands, and workflows takes some time and effort, which can be challenging for beginners.
 
-Dateigröße und Speicherplatz: Git speichert eine vollständige Kopie des Repositorys lokal, einschließlich aller historischen Daten. Daher können die Speicheranforderungen im Laufe der Zeit steigen. Das gilt insbesonders bei Projekten mit umfangreichen Historien oder großen Binärdateien und PDFs, da Git hier jedesmal die gesamten Dokumente und nicht nur die Änderungen speichert.
+File size and storage: Git stores a complete copy of the repository locally, including all historical data. As a result, storage requirements can increase over time. This is especially true for projects with large histories or large binaries and PDFs, since Git stores the entire documents each time, not just the changes.
